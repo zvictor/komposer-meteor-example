@@ -1,0 +1,1 @@
+small example on how to use [React Containers](https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8) with the new [JavaScript modules in Meteor 1.3](https://github.com/meteor/meteor/blob/release-1.3/packages/modules/README.md)
