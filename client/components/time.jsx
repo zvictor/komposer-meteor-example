@@ -1,3 +1,5 @@
 import React from 'react';
 
-export const Time = ({time}) => (<div>Time is: {time}</div>);
+const Time = ({time}) => (<div>Time is: {time}</div>);
+
+export default Time;

@@ -13,4 +13,5 @@ const composerFunction = (props, onData) => {
 };
 
 // Note the use of composeWithTracker
-export const Clock = composeWithTracker(composerFunction)(Time);
+const Clock = composeWithTracker(composerFunction)(Time);
+export default Clock;
